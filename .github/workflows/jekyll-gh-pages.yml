@@ -1,0 +1,366 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<title>大车车 - 探索汽车世界，畅享驾驶乐趣。</title>
+<meta name="keywords" content="新车,养车,保险,汽车知识,用车知识,汽车改装,新能源" />
+<meta name="description" content="欢迎来到大车车汽车百科网，我们为您提供全面的汽车知识，涵盖用车、养车、玩车、改装、汽车参数配置、配件、汽车维修与保养等方面。我们致力于让复杂的汽车知识变得简单易懂，帮助您轻松掌握汽车术语的含义，并提供各种汽车技巧与妙招。立即访问大车车，开启您的汽车百科之旅！" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://dacheche.com//static/web/base.css" rel="stylesheet">
+<script src="https://dacheche.com//static/js/comm.js"></script>
+<link rel="shortcut icon" href="https://dacheche.com//favicon.ico">
+<link rel="icon" href="https://dacheche.com//favicon.ico" sizes="32x32" />
+</head>
+<body>
+<header>
+  <div class="topbar"> <a href="https://www.dacheche.com/" class="logo"><img src="/static/web/logo.png" alt="大车车 DaCheChe.Com"></a>
+    <div class="search">
+ <form action="/search/" method="get" name="searchform" id="searchform" onsubmit="return submitForm()">
+    <input name="keyword" id="keyboard" class="input_text" value="请输入关键字词" style="color: rgb(153, 153, 153);" onfocus="if(value=='请输入关键字词'){this.style.color='#000';value=''}" onblur="if(value==''){this.style.color='#999';value='请输入关键字词'}" type="text">
+    <input name="show" value="title" type="hidden">
+    <input name="tempid" value="1" type="hidden">
+    <input name="tbname" value="news" type="hidden">
+    <input name="Submit" class="input_submit" value="" type="submit">
+</form>
+    </div>
+    <div class="search-key">热搜词：<a href="https://www.dacheche.com/tag/1/">驾驶证</a><a href="https://www.dacheche.com/tag/157/">保费</a><a href="https://www.dacheche.com/tag/149/">轮毂</a></div>
+  </div>
+  <div id="mnavh"><span class="navicon"></span></div>
+     
+</header>
+
+<main>
+  <nav>    <div class="topnav">
+      <ul id="starlist">
+        <li><a href="https://www.dacheche.com/chexing.html" id="selected">汽车报价</a></li>
+<li><a href="https://dacheche.com//xinnengyuan/">新能源</a></li><li><a href="https://dacheche.com//yongche/">用车</a></li><li><a href="https://www.dacheche.com/wanche/">玩车</a></li><li><a href="https://www.dacheche.com/yangche/">养车</a></li><li><a href="https://www.dacheche.com/xiuche/">修车</a></li><li><a href="https://www.dacheche.com/chexian/">车险</a></li><li><a href="https://www.dacheche.com/meirong/">美容</a></li><li><a href="https://www.dacheche.com/zhishi/">知识</a></li>     <li><a href="https://www.dacheche.com/xueche/">学车</a></li><li><a href="https://www.dacheche.com/weizhang/">违章</a></li><li><a href="https://www.dacheche.com/jiashizheng/">驾驶证</a></li>   <li><a href="https://www.dacheche.com/youjia/">今日油价</a></li>    <li class="menu"><div class="btn_menu">车工具>></div>
+          <ul class="sub">
+     <li><a href="https://www.dacheche.com/youhao">油耗计算器</a></li> <li><a href="https://dacheche.com//dianhao">电耗计算器</a></li><li><a href="https://dacheche.com/gouzhishui">购置税计算器</a></li><li><a href="https://www.dacheche.com/chedai">贷款计算器</a></li><li><a href="https://www.dacheche.com/baoxian">保险计算器</a></li><li><a href="https://www.dacheche.com/weizhang.html">交通违章代码</a></li>
+     </ul>
+   </li>
+      </ul>
+    </div>
+    <em></em> </nav>
+  <div class="box_l"> 
+    <div class="banner">
+      <ul>
+
+ <li><a href="https://www.dacheche.com/xinche/4439.html" title="全新一代宝马3系实车谍照曝光" target="_blank"><i><img src="/upload/article/20241129/1801456749910965823YsSDvm.png" alt="全新一代宝马3系实车谍照曝光"></i>
+          <p>全新一代宝马3系实车谍照曝光</p>
+          </a></li>
+
+ <li><a href="https://www.dacheche.com/xinche/4438.html" title="奇瑞风云A8L C-DM" target="_blank"><i><img src="/upload/article/20241129/17570667498ff20257dK254Rm.png" alt="奇瑞风云A8L C-DM"></i>
+          <p>奇瑞风云A8L C-DM</p>
+          </a></li>
+
+ <li><a href="https://www.dacheche.com/zhishi/2931.html" title="NGK牌子的火花塞哪个国家" target="_blank"><i><img src="/upload/article/20241005/1445246700e08491393juAKHW.jpg" alt="NGK牌子的火花塞哪个国家"></i>
+          <p>NGK牌子的火花塞哪个国家</p>
+          </a></li>
+      </ul>
+    </div>
+<div class="xnypp">
+    <div class="flex-xnypp">
+                 <a class="brand-card" href="/chexinglist/3.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/Mercedes-Benz.png"
+            loading="eager">
+            <span class="brand-name">
+                奔驰
+            </span>
+        </a>
+            <a class="brand-card" href="/chexinglist/4.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/bmw.png"
+            loading="eager">
+            <span class="brand-name">
+                宝马
+            </span>
+        </a>
+             <a class="brand-card" href="/chexinglist/1.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/dazhong.png"
+            loading="eager">
+            <span class="brand-name">
+                大众
+            </span>
+        </a>
+        <a class="brand-card" href="/chexinglist/63.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/tesla.png"
+            loading="eager">
+            <span class="brand-name">
+                特斯拉
+            </span>
+        </a>
+              <a class="brand-card" href="/chexinglist/535.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/mi.png"
+            loading="eager">
+            <span class="brand-name">
+               小米
+            </span>
+        </a>
+              <a class="brand-card" href="/chexinglist/202.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/lixiang.png"
+            loading="eager">
+            <span class="brand-name">
+                理想
+            </span>
+        </a>
+                 <a class="brand-card" href="/chexinglist/16.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/byd.png"
+            loading="eager">
+            <span class="brand-name">
+                比亚迪
+            </span>
+        </a>
+       <a class="brand-card" href="/chexinglist/483.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/aito.png"
+            loading="eager">
+            <span class="brand-name">
+                AITO
+            </span>
+        </a>
+             <a class="brand-card" href="/chexinglist/426.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/jike.png"
+            loading="eager">
+            <span class="brand-name">
+                极氪
+            </span>
+        </a>
+             <a class="brand-card" href="/chexinglist/195.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/xiaopeng.png"
+            loading="eager">
+            <span class="brand-name">
+                小鹏
+            </span>
+        </a>
+        <a class="brand-card" href="/chexinglist/112.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/weilai.png"
+            loading="eager">
+            <span class="brand-name">
+                蔚来
+            </span>
+        </a>
+           <a class="brand-card" href="/chexinglist/199.html" target="_blank">
+            <img alt="" width="28" height="28" class="brand-logo" src="//cximg.dacheche.com/tubiao/nezha.png"
+            loading="eager">
+            <span class="brand-name">
+                哪吒
+            </span>
+        </a>
+    </div>
+</div>
+
+	     <div class="news_box">
+      <h2 class="tit"><span>新的汽车知识</span></h2>
+      <ul class="news_list">
+           <li><a href="https://www.dacheche.com/zhishi/4528.html" title="8秒破百有推背感吗" target="_blank"><i><img src="https://www.dacheche.com/upload/article/68621be9bde8d0fa5905e6c5c2abeb17.jpg" alt="8秒破百有推背感吗"></i>
+          <h3>8秒破百有推背感吗</h3>
+          <span>知识</span>
+          <p class="news_list_info">所谓的推背感，就是汽车猛然加速时，由于惯性的缘故，我们体会到的座椅推后背的感觉。8秒破百有推背感吗8秒破...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/meirong/4527.html" title="怎么去除汽车玻璃的贴膜" target="_blank"><i><img src="https://www.dacheche.com/upload/article/9c946ea697a5f538700dc6d61f1a00b1.jpg" alt="怎么去除汽车玻璃的贴膜"></i>
+          <h3>怎么去除汽车玻璃的贴膜</h3>
+          <span>美容</span>
+          <p class="news_list_info">许多车主在长时间使用汽车之后，想要将车上的玻璃贴膜去除。怎么去除汽车玻璃的贴膜去除汽车玻璃贴膜的方法如...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/yongche/4526.html" title="丰田十五万左右的车哪款好" target="_blank"><i><img src="https://www.dacheche.com/upload/article/e4cecc481eb252cfe5ee10949d7231a2.jpg" alt="丰田十五万左右的车哪款好"></i>
+          <h3>丰田十五万左右的车哪款好</h3>
+          <span>用车</span>
+          <p class="news_list_info">每一个消费者对美的定义与环境需求差异，因此他们喜爱的车也大不相同，不过不管选哪款车，只要自己喜欢，那基...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4525.html" title="200cc是什么意思" target="_blank"><i><img src="https://www.dacheche.com/upload/article/2eb15af35cfca3512da1a20fd347ede2.jpg" alt="200cc是什么意思"></i>
+          <h3>200cc是什么意思</h3>
+          <span>知识</span>
+          <p class="news_list_info">摩托车的种类是比较多的，从排量划分有50cc-600cc，按照车型可分为街车、跑车、巡航、拉力、越野、踏板车型。...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4524.html" title="发动机防盗是什么意思" target="_blank"><i><img src="https://www.dacheche.com/upload/article/7cb7799d1fc11f8eaf19b8ea9dbe01cc.jpg" alt="发动机防盗是什么意思"></i>
+          <h3>发动机防盗是什么意思</h3>
+          <span>知识</span>
+          <p class="news_list_info">现在许多车都有发动机防盗系统，发动机防盗通常是在仪表盘上显示，车主把点火钥匙拔下以后，防盗系统就开始发...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4523.html" title="凸轮轴磨损有什么症状" target="_blank"><i><img src="https://www.dacheche.com/upload/article/a4b4bb05182b1b951ba45e31e28c3b90.jpg" alt="凸轮轴磨损有什么症状"></i>
+          <h3>凸轮轴磨损有什么症状</h3>
+          <span>知识</span>
+          <p class="news_list_info">凸轮轴是配气机构中的主要驱动部件，用于控制排气门的定时开闭，并驱动其他附件，如汽油泵、机油泵和分电器等...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4522.html" title="汽车空调管道怎么清洗" target="_blank"><i><img src="https://www.dacheche.com/upload/article/7410c11f1a6ce8025f215b3a7c8b6518.jpg" alt="汽车空调管道怎么清洗"></i>
+          <h3>汽车空调管道怎么清洗</h3>
+          <span>知识</span>
+          <p class="news_list_info">车辆空调异味重，很有可能买车人简易的拆换空调过滤芯就可以解决困难。但是假如拆换空调过滤芯后，空调或是异...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/meirong/4521.html" title="前挡玻璃划痕修复大概多少钱" target="_blank"><i><img src="https://www.dacheche.com/upload/article/67086677720a1d8e4ad7757829e5728c.jpg" alt="前挡玻璃划痕修复大概多少钱"></i>
+          <h3>前挡玻璃划痕修复大概多少钱</h3>
+          <span>美容</span>
+          <p class="news_list_info">在车辆的使用过程中，出现前挡风玻璃损伤是很常见的事情；如果前挡风玻璃有划痕，会对驾驶员的视线产生影响，...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4520.html" title="油电混动汽车的优缺点是什么" target="_blank"><i><img src="https://www.dacheche.com/upload/article/833cc171f516aa82281ec013ced1e85f.jpg" alt="油电混动汽车的优缺点是什么"></i>
+          <h3>油电混动汽车的优缺点是什么</h3>
+          <span>知识</span>
+          <p class="news_list_info">混合动力汽车其实是一个概括，实质上混动汽车可分为插电式混合动力、油电混合动力以及增程式混动三个种类。现...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/weizhang/4519.html" title="货车超载50%以上100%以下如何处罚" target="_blank"><i><img src="https://www.dacheche.com/upload/article/a10b7d2723d33b05e311190e6efb82e6.jpg" alt="货车超载50%以上100%以下如何处罚"></i>
+          <h3>货车超载50%以上100%以下如何处罚</h3>
+          <span>违章</span>
+          <p class="news_list_info">不管是客车还是货车，都不可以出现超载的情况，否则将会受到一定的处罚。货车超载50%以上100%以下如何处罚根据...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4518.html" title="预防车玻璃结冰的方法有哪些" target="_blank"><i><img src="https://www.dacheche.com/upload/article/dafc9d8c2a4f02bf420a04f3f01ecbae.jpg" alt="预防车玻璃结冰的方法有哪些"></i>
+          <h3>预防车玻璃结冰的方法有哪些</h3>
+          <span>知识</span>
+          <p class="news_list_info">冬季来临，早晚温差大，汽车玻璃结冰是经常遇到的一个难题。预防车玻璃结冰的方法有哪些在玻璃上贴塑料薄膜：...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4517.html" title="车子方向盘变重怎么解决" target="_blank"><i><img src="https://www.dacheche.com/upload/article/017362777096c725d77a42b9f369cec1.jpg" alt="车子方向盘变重怎么解决"></i>
+          <h3>车子方向盘变重怎么解决</h3>
+          <span>知识</span>
+          <p class="news_list_info">大部分开过车的人应该都会有一个疑问，怎么开着开着方向盘就变重了，转弯转动方向盘的时候很吃力。车子方向盘...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/yongche/4516.html" title="20万左右的合资车suv推荐" target="_blank"><i><img src="https://www.dacheche.com/upload/article/4c457b531bf13e1a2a1f40d6be1767cf.jpg" alt="20万左右的合资车suv推荐"></i>
+          <h3>20万左右的合资车suv推荐</h3>
+          <span>用车</span>
+          <p class="news_list_info">20万的预算其实已经很高了，但是相对于一些的豪华品牌还是不够看，但这并不妨碍20万能买一辆性能非常优秀的合...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/yongche/4515.html" title="迷你车型女士开推荐自动挡" target="_blank"><i><img src="https://www.dacheche.com/upload/article/e5329c398381025855b8dc52090dfff4.jpg" alt="迷你车型女士开推荐自动挡"></i>
+          <h3>迷你车型女士开推荐自动挡</h3>
+          <span>用车</span>
+          <p class="news_list_info">相信很多女生买车，都会喜欢自动挡的小型车，毕竟自动挡的小型车不仅开起来更方便，而且停车也会更容易。迷你...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4514.html" title="车里汽油味很大有危险吗" target="_blank"><i><img src="https://www.dacheche.com/upload/article/3bd11ac8c9ec5d41fe5302853d962b27.jpg" alt="车里汽油味很大有危险吗"></i>
+          <h3>车里汽油味很大有危险吗</h3>
+          <span>知识</span>
+          <p class="news_list_info">我相信很多车主在行驶车辆的时候，都会遇到车内有汽油味的情况。车里汽油味很大有危险吗如果车里汽油味很大，...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4513.html" title="二手车没过户签了协议有效吗" target="_blank"><i><img src="https://www.dacheche.com/upload/article/14354f6ea69d6f34ea632a7a37cb6e59.jpg" alt="二手车没过户签了协议有效吗"></i>
+          <h3>二手车没过户签了协议有效吗</h3>
+          <span>知识</span>
+          <p class="news_list_info">有很多车主因为手头比较紧张，再加上想要购买一个练手的车，都会选择购买二手车。二手车没过户签了协议有效吗...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4512.html" title="车辆识别代号是什么" target="_blank"><i><img src="https://www.dacheche.com/upload/article/1f9df07e6a3d1d38405e37f2b40e4850.jpg" alt="车辆识别代号是什么"></i>
+          <h3>车辆识别代号是什么</h3>
+          <span>知识</span>
+          <p class="news_list_info">在维修汽车的时候，我们都要拍一下汽车的铭牌或车架号。车辆识别代号是什么车辆识别代号简称VIN，也就是我们平...</p>
+          </a> </li>
+            <li><a href="https://www.dacheche.com/zhishi/4511.html" title="拨片换挡是什么意思" target="_blank"><i><img src="https://www.dacheche.com/upload/article/267e80153006fff86d328eb721d337d7.jpg" alt="拨片换挡是什么意思"></i>
+          <h3>拨片换挡是什么意思</h3>
+          <span>知识</span>
+          <p class="news_list_info">说到方向盘换挡拨片，很多车主对此并不了解，其实方向盘换挡拨片主要应用于一些运动型车上。拨片换挡是什么意...</p>
+          </a> </li>
+    </ul>
+       </div>   </div>
+  
+  
+  <aside class="box_r">
+     <section> 
+     <a class="car-card" href="/dianche.html" target="_blank">
+    <div class="card-content">
+        <div class="card-title">
+            新势力热度榜
+            <strong class="label">新能源</strong>
+        </div>
+        <div class="card-info">
+            <span class="car-name">前100名</span>
+            <span class="car-price">排行榜</span>
+        </div>
+    </div>
+    <div class="car-image">
+        <img alt="新势力热度榜" width="120" height="90" src="//cximg.dacheche.com/tos-cn-i-dcdx/70084ec6188c457d81e000f310d9af9b~360x270.webp">
+    </div>
+</a>
+<a class="car-carda" href="/chexing.html" target="_blank">
+    <div class="card-contenta">
+        <div class="card-titlea">
+            汽车报价大全
+            <strong class="labela">好价格</strong>
+        </div>
+        <div class="card-infoa">
+            <span class="car-namea">看你喜欢</span>
+            <span class="car-pricea">的好车</span>
+        </div>
+    </div>
+    <div class="car-imagea">
+        <img alt="汽车报价大全" width="120" height="90" src="//cximg.dacheche.com/tos-cn-i-dcdx/590dde12e260473d890a20272658d0d8~360x270.webp">
+    </div>
+</a>
+<a class="car-cardb" href="/weizhang.html" target="_blank">
+    <div class="card-contentb">
+        <div class="card-titleb">
+            交通违章代码
+            <strong class="labelb">查违章</strong>
+        </div>
+        <div class="card-infob">
+            <span class="car-nameb">交通违章</span>
+            <span class="car-priceb">代码表</span>
+        </div>
+    </div>
+    <div class="car-imageb">
+        <img alt="交通违章代码" width="120" height="90" src="//cximg.dacheche.com/tos-cn-i-dcdx/7a507b6ec14c4ead9c95c336893aa9d2~360x270.webp">
+    </div>
+</a>
+</section>
+    <section>
+      <h3>站长推荐</h3><div id="ads_01"></div>
+    <ul class="news_part05">   
+ 										 <li><a href="https://www.dacheche.com/zhishi/3556.html" title="2021款远景X3什么时候上市" target="_blank"><i><img src="https://www.dacheche.com/upload/article/38cec0a6dc369a5544c2196151b6855a.jpg" alt="2021款远景X3什么时候上市"></i>
+          <p>2021款远景X3什么时候上市</p>
+          </a></li>
+		   <li><a href="https://www.dacheche.com/weizhang/2418.html" title="不系安全带罚多少钱扣几分2023" target="_blank"><i><img src="https://www.dacheche.com/upload/article/61ee38237a0397766537b14d0b24b304.jpg" alt="不系安全带罚多少钱扣几分2023"></i>
+          <p>不系安全带罚多少钱扣几分2023</p>
+          </a></li>
+		   <li><a href="https://www.dacheche.com/weizhang/1423.html" title="车有违章不处理有什么后果" target="_blank"><i><img src="https://www.dacheche.com/upload/article/ae470447715b289b924e4b2582110105.jpg" alt="车有违章不处理有什么后果"></i>
+          <p>车有违章不处理有什么后果</p>
+          </a></li>
+		   <li><a href="https://www.dacheche.com/zhishi/4390.html" title="有酒驾记录可以做代驾吗" target="_blank"><i><img src="https://www.dacheche.com/upload/article/aeb9ce717c6c099b70f9cb98b10f30f3.jpg" alt="有酒驾记录可以做代驾吗"></i>
+          <p>有酒驾记录可以做代驾吗</p>
+          </a></li>
+		  	
+      </ul>
+    </section>    <section>
+<h3>推荐标签</h3> 
+<ul class="news_part01"> 
+    	<li><a href="https://www.dacheche.com/tag/1925/">最低</a></li>
+<li><a href="https://www.dacheche.com/tag/1304/">敞篷车</a></li>
+<li><a href="https://www.dacheche.com/tag/746/">广东</a></li>
+<li><a href="https://www.dacheche.com/tag/1945/">四件套</a></li>
+<li><a href="https://www.dacheche.com/tag/1102/">全程</a></li>
+<li><a href="https://www.dacheche.com/tag/1804/">青岛</a></li>
+<li><a href="https://www.dacheche.com/tag/1456/">一只眼</a></li>
+<li><a href="https://www.dacheche.com/tag/1868/">消分吗</a></li>
+<li><a href="https://www.dacheche.com/tag/715/">刚买</a></li>
+<li><a href="https://www.dacheche.com/tag/99/">福特汽车</a></li>
+<li><a href="https://www.dacheche.com/tag/477/">前十名</a></li>
+<li><a href="https://www.dacheche.com/tag/2090/">多高</a></li>
+<li><a href="https://www.dacheche.com/tag/504/">减震器</a></li>
+<li><a href="https://www.dacheche.com/tag/506/">suv</a></li>
+<li><a href="https://www.dacheche.com/tag/1019/">机脚胶</a></li>
+<li><a href="https://www.dacheche.com/tag/1449/">千里马</a></li>
+<li><a href="https://www.dacheche.com/tag/2059/">车友会</a></li>
+<li><a href="https://www.dacheche.com/tag/1690/">众泰</a></li>
+<li><a href="https://www.dacheche.com/tag/145/">加装</a></li>
+<li><a href="https://www.dacheche.com/tag/2043/">有何区别</a></li>
+<li><a href="https://www.dacheche.com/tag/1260/">fsi</a></li>
+	</ul>
+</section>
+    <section>
+<h3>友情链接</h3> 
+<ul class="news_part02"> 
+<li><a href="https://www.dacheche.com" target="_blank">汽车小知识</a> </li>
+<li><a href="https://www.dongchedi.com" target="_blank">懂车帝</a> </li>
+<li><a href="https://www.yoojia.com" target="_blank">有驾</a> </li>
+<li><a href="https://www.baidu.com" target="_blank">百度</a> </li>
+<li><a href="https://www.sogou.com" target="_blank">搜狗</a></li>
+<li><a href="https://www.506064.com" target="_blank">简单一点</a></li>
+<li><a href="https://www.cheask.com" target="_blank">车问答</a></li>
+<li><a href="https://www.dianchetop.com" target="_blank">电车排行榜</a></li>
+<li><a href="https://www.6geng.com" target="_blank">宠物知识</a></li>
+<li><a href="https://www.jtbaike.com" target="_blank">交通百科</a></li>
+<li><a href="https://www.dadawen.com" target="_blank">问答</a></li>
+</ul>
+</section>
+ </aside>
+</main>
+<footer>
+  <div class="box">
+    <p class="foot_l">Copyright © 大车车｜DaCheChe.Com <a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">滇ICP备2020007400号-20</a> </p>
+    <p class="foot_r"><a href="https://www.dacheche.com/about">关于我们</a><a href="https://www.dacheche.com/contact">联系我们</a><a href="https://www.dacheche.com/sitemap.xml">网站地图</a></p>
+  </div>
+</footer>
+<a href="#" title="返回顶部" class="icon-top"></a>
+<script type="text/javascript" src="/static/js/web.js"></script>
+</body>
+</html>
